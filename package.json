@@ -5,7 +5,8 @@
   "main": "src/app.js",
   "scripts": {
     "dev": "node src/app.js",
-    "test": ""
+    "test": "",
+    "start": "node src/app.js"
   },
   "author": "",
   "license": "ISC",
