@@ -2,7 +2,7 @@
   "directory": "vendor/",
   "name": "albert",
   "description": "web app",
-  "main": "scr/app.js",
+  "main": "app.js",
   "authors": [
     "Vladimir Gorgievski <gorgievski.vladimir.l@gmail.com>"
   ],

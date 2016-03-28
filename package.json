@@ -2,9 +2,9 @@
   "name": "albert",
   "version": "1.0.0",
   "description": "web app",
-  "main": "scr/app.js",
+  "main": "app.js",
   "scripts": {
-    "dev": "node src/app",
+    "dev": "node app",
     "test": ""
   },
   "author": "",
