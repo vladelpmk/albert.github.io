@@ -1,0 +1,20 @@
+{
+  "name": "albert",
+  "version": "1.0.0",
+  "description": "web app",
+  "main": "scr/app.js",
+  "scripts": {
+    "dev": "node src/app",
+    "test": ""
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bower": "^1.7.7",
+    "express": "^4.13.4",
+    "gulp": "^3.9.1",
+    "gulp-bower": "0.0.13",
+    "gulp-uglify": "^1.5.3",
+    "uglify": "^0.1.5"
+  }
+}

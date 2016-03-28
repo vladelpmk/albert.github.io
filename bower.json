@@ -1,0 +1,22 @@
+{
+  "directory": "vendor/",
+  "name": "albert",
+  "description": "web app",
+  "main": "scr/app.js",
+  "authors": [
+    "Vladimir Gorgievski <gorgievski.vladimir.l@gmail.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.2"
+  }
+}
